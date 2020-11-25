@@ -1,7 +1,7 @@
 # fetchrewards
 # HOW TO RUN:
 
-1. Clone repo and run app.py
+1. Clone repo and run app.py (Or pull down from Docker Hub)
 2. server will be running on localhost:5000
 3. Via postman (or any other restful api tool) run a POST command
 4. Make sure content-type is set to application/json
